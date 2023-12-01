@@ -1,1 +1,2 @@
 this is the about file
+lorem ipsum dolor set amet.
